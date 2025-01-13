@@ -5,9 +5,9 @@ published: true
 
 ## Instructors
 
-**DS-GA 1017:** [Emily Black](https://emblack.github.io/), Assistant Professor of Computer Science and Engineering, NYU<br>
+**DS-GA 1017:** <br>[Emily Black](https://emblack.github.io/), Assistant Professor of Computer Science and Engineering, NYU<br>
 [Lucas Rosenblatt](https://lucasrosenblatt.com/), PhD Candidate, Computer Science and Engineering, NYU<br>
-**DS-UA 202:** [Umang Bhatt](https://umangsbhatt.github.io/), Data Science Faculty Fellow, Center for Data Science, NYU<br>
+**DS-UA 202:** <br>[Umang Bhatt](https://umangsbhatt.github.io/), Data Science Faculty Fellow, Center for Data Science, NYU<br>
 [Jonathan Colner](https://www.jonathancolner.com/), Data Science Faculty Fellow, Center for Data Science, NYU<br>
 
 ## Syllabi
