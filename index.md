@@ -5,13 +5,17 @@ published: true
 
 ## Instructors
 
-**DS-GA 1017:** [Julia Stoyanovich](https://r-ai.co/people/julia/), Associate Professor of Data Science and of Computer Science & Engineering, NYU<br>
+**DS-GA 1017:** [Emily Black](https://emblack.github.io/), Assistant Professor of Computer Science and Engineering, NYU<br>
+[Lucas Rosenblatt](https://lucasrosenblatt.com/), PhD Candidate, Computer Science and Engineering, NYU<br>
 **DS-UA 202:** [Umang Bhatt](https://umangsbhatt.github.io/), Data Science Faculty Fellow, Center for Data Science, NYU<br>
+[Jonathan Colner](https://www.jonathancolner.com/), Data Science Faculty Fellow, Center for Data Science, NYU<br>
 
 ## Syllabi
 
-* [DS-GA 1017](assets/Syllabus_DS-GA1017_Spring2024.pdf)
-* [DS-UA 202](assets/SyllabusDS-UA202-2024.pdf)
+* **DS-GA 1017**: Coming soon!
+* **DS-UA 202**: Coming soon!
+<!-- *  [DS-GA 1017](assets/Syllabus_DS-GA1017_Spring2024.pdf) -->
+<!-- * [DS-UA 202](assets/SyllabusDS-UA202-2024.pdf) -->
 
 ## Description
 
@@ -19,7 +23,7 @@ The first wave of data science focused on accuracy and efficiency -- on what we 
 
 Responsible Data Science is a technical course that tackles the issues of ethics, legal compliance, data quality, algorithmic fairness and diversity, transparency of data and algorithms, privacy, and data protection.
 
-The course is developed by [Julia Stoyanovich](https://r-ai.co/people/julia/), and taught by her and [Umang Bhatt](https://umangsbhatt.github.io/).
+This course was originally developed by [Julia Stoyanovich](https://r-ai.co/people/julia/), and has been modified by current instructors.
 
 ## Prerequisites
 
