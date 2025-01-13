@@ -27,7 +27,7 @@ This course was originally developed by [Julia Stoyanovich](https://r-ai.co/peop
 
 ## Prerequisites
 
-**DS-UA 202:** Introduction to Data Science, Introduction to Computer Science, or similar courses
+**DS-UA 202:** Introduction to Data Science, Introduction to Computer Science, or similar courses <br>
 **DS-GA 1017:** Introduction to Data Science, Introduction to Computer Science, or similar courses
 
 ## Meeting Times and Assignments
