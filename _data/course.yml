@@ -1,0 +1,3 @@
+description: DS-UA 202 and DS-GA 1017
+modules: [fairness, data_science_lifecycle, transparency_and_interpretability, data_protection]
+title: Responsible Data Science
